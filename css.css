@@ -1,0 +1,30 @@
+
+.label
+{
+    float:left;
+    font-size:130%;
+}
+.output-div
+{
+    margin-left:70px;
+    font-size:130%;
+}
+#dropdown
+{
+    height:22px;
+}
+#skills
+{
+    margin-left:157px;
+    height:100px;
+}
+#previous-achievments
+{
+    margin-left:160px;
+}
+.heading
+{
+    text-align: center;
+    font-size: 200%;
+    width:100%;
+}
